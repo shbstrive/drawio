@@ -1,9 +1,13 @@
-<mxGraphModel dx="0" dy="0" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" background="none" math="0" shadow="0">
-  <root>
-    <mxCell id="0" />
-    <mxCell id="1" parent="0" />
-    <mxCell id="node0" parent="1" vertex="1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;dwd_ansun_store_stock_check_item_df  /* 库存盘点明细表 */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id  /* ID */: string(0)&lt;br/&gt; check_id  /* 盘点记录Id */: string(0)&lt;br/&gt; member_id  /* 用户ID */: string(0)&lt;br/&gt; mciro_id  /* 经销商ID */: string(0)&lt;br/&gt; mciro_name  /* 经销商姓名 */: string(0)&lt;br/&gt; status  /* 状态 0:审核中 1:审核通过 2:审核拒绝 3:作废 */: string(0)&lt;br/&gt; product_id  /* 产品ID */: string(0)&lt;br/&gt; product_sn  /* 产品编号 */: string(0)&lt;br/&gt; product_name  /* 产品名称 */: string(0)&lt;br/&gt; unit  /* 产品单位 */: string(0)&lt;br/&gt; barcode_flag  /* 是否有溯源码 false-无 true-有 */: boolean&lt;br/&gt; offline_quantity_total  /* 线下库存数量 */: bigint(0)&lt;br/&gt; online_quantity_total  /* 线上库存数量 */: bigint(0)&lt;br/&gt; radix  /* 套数 */: decimal(0,4)&lt;br/&gt; differ_quantity  /* 相差数量（正值盘赢：线下&amp;gt;线上 负值盘亏 线下&amp;lt;线上） */: bigint(0)&lt;br/&gt; fail_reason  /* 审核失败原因 */: string(0)&lt;br/&gt; create_date  /* 创建日期 */: datetime(0)&lt;br/&gt; modify_date  /* 更新日期 */: datetime(0)&lt;br/&gt; del_flag  /* 删除标志 0-未删除 1-已删除 */: string(0)&lt;br/&gt; ds  /* 日期 */: string(0)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;">
-      <mxGeometry x="-242" y="-299" width="485" height="599" as="geometry" />
-    </mxCell>
-  </root>
-</mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-12-27T06:58:41.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.12" etag="q0C_HaA3h19F4EmBdGVL" type="github">
+  <diagram id="34s9Q7LMwqskkY9e8y9D" name="第 1 页">
+    <mxGraphModel dx="2474" dy="1506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="node0" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;dwd_ansun_store_stock_check_item_df  /* 库存盘点明细表 */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id  /* ID */: string(0)&lt;br&gt; check_id  /* 盘点记录Id */: string(0)&lt;br&gt; member_id  /* 用户ID */: string(0)&lt;br&gt; mciro_id  /* 经销商ID */: string(0)&lt;br&gt; mciro_name  /* 经销商姓名 */: string(0)&lt;br&gt; status  /* 状态 0:审核中 1:审核通过 2:审核拒绝 3:作废 */: string(0)&lt;br&gt; product_id  /* 产品ID */: string(0)&lt;br&gt; product_sn  /* 产品编号 */: string(0)&lt;br&gt; product_name  /* 产品名称 */: string(0)&lt;br&gt; unit  /* 产品单位 */: string(0)&lt;br&gt; barcode_flag  /* 是否有溯源码 false-无 true-有 */: boolean&lt;br&gt; offline_quantity_total  /* 线下库存数量 */: bigint(0)&lt;br&gt; online_quantity_total  /* 线上库存数量 */: bigint(0)&lt;br&gt; radix  /* 套数 */: decimal(0,4)&lt;br&gt; differ_quantity  /* 相差数量（正值盘赢：线下&amp;gt;线上 负值盘亏 线下&amp;lt;线上） */: bigint(0)&lt;br&gt; fail_reason  /* 审核失败原因 */: string(0)&lt;br&gt; create_date  /* 创建日期 */: datetime(0)&lt;br&gt; modify_date  /* 更新日期 */: datetime(0)&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-242" y="-299" width="485" height="599" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
